@@ -1,0 +1,22 @@
+path: YOLO/final_dataset
+train: train/images
+val: val/images
+
+
+
+nc: 13
+names : [
+  0 : "fall_start", 
+  1 : "fall_end", 
+  2 : "theft_start", 
+  3 : "theft_end", 
+  4 : "smoke_start", 
+  5 : "smoke_end", 
+  6 : "fight_start", 
+  7 : "fight_end",
+  8 : "moving",
+  9 : "select_start",
+  10 : "select_end",
+  11 : "buying_start",
+  12 : "buying_end"
+]

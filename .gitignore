@@ -1,0 +1,4 @@
+# 모델 디렉토리 및 파일
+ultralytics/
+yolov5/
+used/yolov8n.pt
