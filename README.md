@@ -1,13 +1,22 @@
 # YOLO
 
 # Model 설치
+<pre>
+<code>
+```bash
 git clone https://github.com/ultralytics/ultralytics.git
 cd ultralytics
 pip install -e .
+```
+</code>
+</pre>
+
 
 # Data
+
+- AIHUB에서 아래 데이터들 Download
+
 ### 1.실내(편의점,매장) 사람 이상행동 데이터
-https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%9D%B4%EC%83%81%ED%96%89%EB%8F%99&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=&srchDataRealmCode=&aihubDataSe=data&dataSetSn=71550
 
 - 전도,흡연,절도,폭행 download
 
