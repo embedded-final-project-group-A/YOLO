@@ -3,11 +3,9 @@
 # Model 설치
 <pre>
 <code>
-```bash
 git clone https://github.com/ultralytics/ultralytics.git
 cd ultralytics
 pip install -e .
-```
 </code>
 </pre>
 
