@@ -53,3 +53,12 @@ pip install -e .
 - 이미지 크기: 640x640, batch size: 16, epoch: 100
 - YOLOv8 기본 anchor 설정(auto anchor) 사용
 - 최종 모델은 `best.pt`로 저장되며, 이후 추론에 활용
+
+
+# 모델 성능
+![Confusion Matrix](result/yolov8_final_project/confusion_matrix.png)
+![F1 Score](result/yolov8_final_project/F1_curve.png)
+![Precision](result/yolov8_final_project/P_curve.png)
+![Recall](result/yolov8_final_project/R_curve.png)
+![Precision-Recall](result/yolov8_final_project/PR_curve.png)
+![Others](result/yolov8_final_project/results.png)
