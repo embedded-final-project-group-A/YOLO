@@ -56,9 +56,15 @@ pip install -e .
 
 
 # 모델 성능
+### Confusion Matrix
 ![Confusion Matrix](result/yolov8_final_project/confusion_matrix.png)
+### F1 Score
 ![F1 Score](result/yolov8_final_project/F1_curve.png)
+### Precision
 ![Precision](result/yolov8_final_project/P_curve.png)
+### Recall
 ![Recall](result/yolov8_final_project/R_curve.png)
+### Preicision-Recall
 ![Precision-Recall](result/yolov8_final_project/PR_curve.png)
+### Others
 ![Others](result/yolov8_final_project/results.png)
