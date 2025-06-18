@@ -96,7 +96,7 @@
 
 </br>
 
-## 2. Anomaly 모델 성능
+## 3. Anomaly 모델 성능
 
 ### Confusion Matrix
 ![Confusion Matrix](../result/only-anomaly/yolov8_final_project_238-2/confusion_matrix.png)
@@ -118,7 +118,7 @@
 
 </br>
 
-## 3. Final 모델 성능
+## 4. Final 모델 성능
 
 ### Confusion Matrix
 ![Confusion Matrix](../result/yolov8_final_project/confusion_matrix.png)
@@ -140,7 +140,7 @@
 
 </br>
 
-## 4. 코드 재사용
+## 5. 코드 재사용
 
 ### 주요 코드 기능
 

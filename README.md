@@ -98,7 +98,7 @@ Training data was downloaded from AIHub:
 
 </br>
 
-## 2. Anomaly-Only Model Performance
+## 3. Anomaly-Only Model Performance
 
 ### Confusion Matrix
 ![Confusion Matrix](./result/only-anomaly/yolov8_final_project_238-2/confusion_matrix.png)
@@ -120,7 +120,7 @@ Training data was downloaded from AIHub:
 
 </br>
 
-## 3. Final Model Performance (All Classes)
+## 4. Final Model Performance (All Classes)
 
 ### Confusion Matrix
 ![Confusion Matrix](./result/yolov8_final_project/confusion_matrix.png)
@@ -142,7 +142,7 @@ Training data was downloaded from AIHub:
 
 </br>
 
-## 4. Code Reusability
+## 5. Code Reusability
 
 ### Main Code Functions
 
