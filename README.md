@@ -33,7 +33,7 @@ Download the following datasets from AIHUB:
 ---
 * **Epochs**: 100
 * **Batch Size**: 16
-* **Pretrained Model Used**: *yolov8n*
+* **Pretrained Model Used**: `yolov8n`
     * **Version**: [Ultralytics YOLOv8 v8.0+](https://github.com/ultralytics/ultralytics)
     * Trained based on the lightweight YOLO model (`yolov8n.pt`).
 
