@@ -4,7 +4,7 @@
 
 </br>
 
-## 🚨 **Smart Unmanned Store: YOLO AI Abnormal Behavior Detection & Alert App**
+# 🚨 **Smart Unmanned Store: YOLO AI Abnormal Behavior Detection & Alert App**
 
 ### Development Period
 
@@ -64,6 +64,11 @@ Training data was downloaded from AIHub:
 - Categories: Moving, Selecting, Purchasing
 - **train** : 35,119
 - **val** : 4,267
+
+</br>
+
+### Data Preprocessing
+![Confusion Matrix](./README/preprocessing.jpg)
 
 </br>
 

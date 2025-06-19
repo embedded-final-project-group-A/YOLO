@@ -4,7 +4,7 @@
 
 </br>
 
-## 🚨 **스마트 무인매장: YOLO AI 이상행동 감지 & 알람 앱**
+# 🚨 **스마트 무인매장: YOLO AI 이상행동 감지 & 알람 앱**
 
 ### 개발 기간
 
@@ -65,6 +65,12 @@
 - 매장이동, 선택, 구매 데이터 다운로드
 - **train** : 35,119
 - **val** : 4,267
+
+</br>
+
+### Data Preprocessing
+![Confusion Matrix](./preprocessing.jpg)
+
 
 </br>
 
