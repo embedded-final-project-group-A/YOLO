@@ -6,6 +6,10 @@
 
 # 🚨 **스마트 무인매장: YOLO AI 이상행동 감지 & 알람 앱**
 
+<p align="center">
+  <img alt="detection video" src="./theft.gif" width="300"/>
+</p>
+
 ### 개발 기간
 
 - **전체 개발 기간**: 2025.04.29 - 2025.06.19

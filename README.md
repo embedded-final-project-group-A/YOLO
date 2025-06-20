@@ -6,6 +6,10 @@
 
 # 🚨 **Smart Unmanned Store: YOLO AI Abnormal Behavior Detection & Alert App**
 
+<p align="center">
+  <img alt="detection video" src="./README/theft.gif" width="300"/>
+</p>
+
 ### Development Period
 
 - **Overall Development**: 2025.04.29 - 2025.06.19
